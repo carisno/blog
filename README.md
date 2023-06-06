@@ -1,8 +1,7 @@
 # Blog application
 
 - JWT Authentication Flow for User Signup & User Login
-- Project Structure for React Typescript Authentication (without Redux) with React Router & Axios
-- Creating React Components with Form Validation using Formik and Yup
+- Project Structure for React Typescript Authentication with React Redux & Router & Axios
 - React Typescript Components for accessing protected Resources (Authorization)
 - Dynamic Navigation Bar in React Typescript App
 
