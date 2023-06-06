@@ -25,8 +25,16 @@ In the project directory, you can run:
 cd frontend
 npm install
 ```
+```
+cd backend
+npm install
+```
+### Compiles and hot-reloads for 
 
-### Compiles and hot-reloads for development
+```
+cd frontend
+npm start
+```
 
 ```
 cd backend
